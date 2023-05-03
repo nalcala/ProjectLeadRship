@@ -1,0 +1,17 @@
+Package: ProjectLeadRship
+Type: Package
+Title: R package to help project leadership 
+Version: 0.1.0
+Author: Nicolas Alcala
+Maintainer: The package maintainer <alcalan@iarc.who.int>
+Description: This package will hold functions to visualize and 
+    quantify diverse project leadership aspects.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2,
+    ggrepel,
+    readxl,
+    tibble
